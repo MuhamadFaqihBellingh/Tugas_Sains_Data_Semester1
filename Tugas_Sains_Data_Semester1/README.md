@@ -22,5 +22,5 @@ Repositori ini terdiri dari tiga tugas:
 ## Cara Menjalankan
 1. **Clone repositori:**
    ```bash
-   git clone https://github.com/username/Tugas_Sains-_Data_Semester1.git
-   cd sains-data-tugas
+   git clone https://github.com/MuhamadFaqihBellingh/Tugas_Sains_Data_Semester1.git
+   cd Tugas_Sains_Data_Semester1
